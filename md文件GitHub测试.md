@@ -10,6 +10,6 @@ github 图片链接格式：
 1.1运行截图 gif动图
 ![运行截图](https://nilaoda.github.io/N_m3u8DL-CLI/source/images/%E7%9B%B4%E6%8E%A5%E4%BD%BF%E7%94%A8.gif)  
 1.2正常图片
-(http://github.com/yourname/your-repository/raw/master/images-folder/xxx.png)
 
+![image](https://github.com/aixuexideyitian/java--studying/blob/main/Snipaste_2020-10-22_12-34-46.png)
 
