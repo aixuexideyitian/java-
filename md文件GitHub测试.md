@@ -20,12 +20,12 @@ https://www.cnblogs.com/GuliGugaLiz/p/10237929.html
 1、在markdown里，添加 gif动画
 <img src="https://n.sinaimg.cn/tech/transform/50/w435h415/20200211/66a2-ipfprtp5563490.gif" alt="show" />
 
-2、在markdown里，添加 视频
+2、在markdown里，添加 视频 但是github 好像无法添加视频
 <video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
 <source id="mp4" src="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
 </video>
 
-3、在markdown里，添加 音频
+3、在markdown里，添加 音频音频貌似也不可可以
 <audio id="audio" controls="" preload="none">
 <source id="mp3" src="http://qiniu.cloud.fandong.me/Music_iP%E8%B5%B5%E9%9C%B2%20-%20%E7%A6%BB%E6%AD%8C%20%28Live%29.mp3">
 </audio>
